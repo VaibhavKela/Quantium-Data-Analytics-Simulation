@@ -42,13 +42,13 @@ The goal of this virtual internship was to support Quantium’s retail analytics
 
 ## 📌 Certificate
 
-You can view my completion certificate [here](#) *(replace `#` with your certificate link if you'd like to add it)*.
+You can view my completion certificate [here](https://github.com/VaibhavKela/Quantium-Data-Analytics-Simulation/blob/main/Quantium_Data_Analytics_Job_Simulation_Certificate.pdf).
 
 ---
 
 ## 📬 Contact
 
-**Vaibhav Jagdish Kela**  
+**Vaibhav Kela**  
 📧 Email: vaibavkela@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/vaibhav-kela-860189230)
 
